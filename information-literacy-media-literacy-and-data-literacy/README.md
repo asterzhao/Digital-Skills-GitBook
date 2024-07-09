@@ -13,3 +13,4 @@ Topics include:
 **Data literacy skills and knowledge:** will support efficient, effective and ethical creation, maintenance, interpretation, dissemination and preservation of data in both personal and professional capacities.
 
 **AI literacy skills and knowledge:** testing testing
+
